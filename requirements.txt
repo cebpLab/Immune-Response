@@ -1,0 +1,9 @@
+#Package requirements
+python==3.9.12
+numpy
+pandas
+matplotlib
+scipy
+stochastic
+Pillow
+ipympl
