@@ -16,4 +16,5 @@ To simulate each instances run the appropriate method.
 ## Reproducing Plots from Manuscript
 The plots of particular dataset fit can be obtained by using the .csv files that store the data for each patient and running the corresponding code for dataset fit.
 ## Reference
-Manuscript title:
+Manuscript title: Persistent correlation in cellular noise determines longevity of viral infection \
+Authors: Abhilasha Batra, Shoubhik Banerjee and Rati Sharma
