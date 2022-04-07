@@ -1,7 +1,5 @@
-"""
--------Immune Response Model----------
-@author: Shoubhik Banerjee 
-"""
+"""-------Immune Response Model----------"""
+
 import numpy as np
 from math import sqrt,log10,exp
 import matplotlib.pyplot as plt
